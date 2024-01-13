@@ -1,0 +1,75 @@
+{
+   "token": "abcdefghijklmnopqrstuvwxyz",
+   "status": "dnd",
+   "log_message": "[<date>] Mirrored <author>'s message from <server>.",
+   "mirrors": [
+      {
+         "channel_ids": [
+           "763852112882171934",
+            "975477697662828644",
+            "786127715769909249","763851749164974081","788255701809627156","1028372230163415111","786126922618241024","764337208844222525","788255806419763200","901698775226146856"," 830237232219684864","785000532254130186","840021281964425236","763851444910293022","786125649232003072","763860707544137759","800248614772539443","816406926673182800","1101895757541429291"
+            
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1099221356878503936/3p0LV-GszBmx4n0bO-JDumEYl57iTL3xe0NnFhvyxETYYdzgSSG6PRC5aTgppvDkFt3I"
+         ],
+         "options": {
+            "use_webhook_profile": true
+         },
+        "requirements": {
+   "min_embeds_count": 0,
+   "min_content_length": 0,
+   "min_attachments_count": 1
+      },
+         "replacements": {
+            "content": [
+               {
+                  "replace": "@everyone",
+                  "with": "🍐"
+               },
+               {
+                  "replace": "@here",
+                  "with": "🍊"
+               },
+              {
+                  "replace": "invite",
+                  "with": "uwu"
+              },
+              {
+                  "replace": "discord.gg",
+                  "with": "bobbs"
+              },
+              {
+                  "replace": ".ru",
+                  "with": "lel"
+              },
+
+{
+                  "replace": "yout",
+                  "with": "lol"
+}
+            ],
+            "embed": {
+               "title": [
+                  {
+                     "replace": "facebook",
+                     "with": "instagram"
+                  }   
+               ],
+               "description": [
+                  {
+                     "replace": "facebook",
+                     "with": "instagram"
+                  }   
+               ],
+               "author": [
+                  {
+                     "replace": "Example Bot",
+                     "with": "paapi"
+                  }   
+               ]
+            }
+         }
+      }
+   ]
+}
