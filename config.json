@@ -11,7 +11,7 @@
             
          ],
          "webhook_urls": [
-            "https://discord.com/api/webhooks/1099221356878503936/3p0LV-GszBmx4n0bO-JDumEYl57iTL3xe0NnFhvyxETYYdzgSSG6PRC5aTgppvDkFt3I"
+            "https://discord.com/api/webhooks/1099221356878503936/3p0LV-GszBmx4n0bO-JDumEYl57iTL3xe0NnFhvyxETYYdzgSSG6PRC5aTgppvDkFt3I","https://discord.com/api/webhooks/1195726176912670860/ET8_Ya5yZIaIjyP-oHhtJKcLkBkqPGXoo2DYOdHvt8INo8dps5QpM5Nt1lXO4Z3Wk2AN"
          ],
          "options": {
             "use_webhook_profile": true
